@@ -1,0 +1,13 @@
+#container {
+    width: 500px;
+    height: 500px;
+    background: #c6f5fdef;
+    border: #5177f1 solid 2px;
+    display: grid;
+    align-self: center;
+  }
+
+.grid-child {
+  border: #e4a2e0 dashed 1px;
+  opacity: 80%;
+}
